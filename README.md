@@ -16,6 +16,6 @@ Microsoft Power BI
 6. Implemented data validation processes.
 7. Conducted data modeling and visualization tasks in Power BI.
 
-# Final Result
+
 
 

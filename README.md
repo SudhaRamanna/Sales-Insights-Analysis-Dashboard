@@ -16,6 +16,9 @@ Microsoft Power BI
 6. Implemented data validation processes.
 7. Conducted data modeling and visualization tasks in Power BI.
 
+# Result 
+PowerBI Dashboard for converting the data into visual representation to make data driven decisions.
+
 
 
 

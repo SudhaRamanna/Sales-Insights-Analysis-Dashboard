@@ -18,7 +18,8 @@ Microsoft Power BI
 
 # Result 
 PowerBI Dashboard for converting the data into visual representation to make data driven decisions.
-![Uploading image.png…]()
+![image](https://github.com/SudhaRamanna/Sales-Insights-Analysis-Dashboard/assets/154912150/353f849d-7bac-4d28-a41e-e958c3776466)
+
 
 
 

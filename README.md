@@ -18,6 +18,7 @@ Microsoft Power BI
 
 # Result 
 PowerBI Dashboard for converting the data into visual representation to make data driven decisions.
+![Uploading image.png…]()
 
 
 
